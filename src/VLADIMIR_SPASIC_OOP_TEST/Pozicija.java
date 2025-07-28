@@ -1,0 +1,9 @@
+package VLADIMIR_SPASIC_OOP_TEST;
+
+public enum Pozicija {
+
+    SALTERSKI_SLUZBENIK,
+ MEDICINSKA_SESTRA,
+ DOKTOR;
+
+}

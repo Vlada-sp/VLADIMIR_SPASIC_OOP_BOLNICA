@@ -1,4 +1,4 @@
-package VLADIMIR_SPASIC_OOP_TEST;
+package OOP_HOSPITALSTAFF_WIP;
 
 public class Aplikacija {
     private Bolnica bolnica;
